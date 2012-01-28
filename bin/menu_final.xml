@@ -1,0 +1,5 @@
+<sections>
+    <section file="home.swf" tag="home" label="Home" />
+    <section file="about.swf" tag="about" label="About" />
+    <section file="contact.swf" tag="contact" label="Contact" />
+</sections>
